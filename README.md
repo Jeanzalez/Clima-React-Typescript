@@ -3,7 +3,8 @@
 Demo de aplicación web que permite consultar el clima actual de diferentes ciudades según el país seleccionado. Utiliza una API externa para obtener datos meteorológicos en tiempo real. Desarrollada con **React**, **TypeScript** y **CSS Modules** para un estilo modular y mantenible.
 
 🔗 **[Ver Demo en Netlify](https://melodic-fenglisu-492a78.netlify.app/)**
-🔗 **[API consumida](https://openweathermap.org/)**
+
+🔗 **[Página Web API consumida](https://openweathermap.org/)**
 
 ## 🚀 Tecnologías utilizadas  
 - React ⚛️  
@@ -13,7 +14,7 @@ Demo de aplicación web que permite consultar el clima actual de diferentes ciud
 
 ## 📌 Características  
 ✅ Seleccionar un país y ciudad para consultar el clima  
-✅ Mostrar información del clima en tiempo real (temperatura, temperatura maxima, temperatura minima.)  
+✅ Mostrar información del clima en tiempo real (temperatura, temperatura máxima, temperatura mínima.)  
 ✅ Interfaz clara
 ✅ Manejo de estados y renderizado condicional  
 ✅ Consumo de API para datos actualizados
